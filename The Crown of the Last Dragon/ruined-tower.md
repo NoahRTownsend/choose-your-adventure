@@ -6,4 +6,4 @@ A spiral staircase leads upward.
 
 ## Continue
 
-- (./wizard-study.md)
+- [Go up the stairs](./wizard-study.md)

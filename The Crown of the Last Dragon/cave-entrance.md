@@ -6,4 +6,4 @@ A sleeping dragon slowly opens one eye.
 
 ## Continue
 
-- (./ending-dragon.md)
+- [Console with the dragon](./ending-dragon.md)

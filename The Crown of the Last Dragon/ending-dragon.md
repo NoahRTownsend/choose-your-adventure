@@ -6,4 +6,4 @@ Peace spreads across the kingdom as dragons and humans work together.
 
 # Ending
 
-_start-here.md
+[Return to start](./_start-here.md)

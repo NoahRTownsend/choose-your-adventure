@@ -6,6 +6,6 @@ Two leads emerge immediately.
 
 ## Choose
 
-- (./royal-library.md)
+- [Proceed to the royal library](./royal-library.md)
 
-- (./thief-trail.md)
+- [Follow a sneaky trail of footprints](./thief-trail.md)

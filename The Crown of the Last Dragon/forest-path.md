@@ -6,6 +6,6 @@ A glowing fairy appears and offers guidance.
 
 ## Choose
 
-- (./fairy-grove.md)
+- [Enter the fairy grove](./fairy-grove.md)
 
-- (./cave-entrance.md)
+- [Enter mysterious cave entrance](./cave-entrance.md)

@@ -4,4 +4,4 @@ The thieves admit they sold the crown to a dragon.
 
 ## Continue
 
-- (./ending-dragon.md)
+- [Confront the dragon](./ending-dragon.md)

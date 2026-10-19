@@ -4,4 +4,4 @@ A forgotten map reveals hidden passages beneath the castle.
 
 ## Continue
 
-- (./secret-passage.md)
+- [Enter secret passages](./secret-passage.md)

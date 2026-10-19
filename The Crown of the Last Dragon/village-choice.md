@@ -6,6 +6,6 @@ One hunter claims a dragon was seen flying toward the mountains.
 
 ## Choose
 
-- (./forest-path.md)
+- [Follow the path into the forest](./forest-path.md)
 
-- (./mountain-path.md)
+- [Follow the path into the mountains](./mountain-path.md)

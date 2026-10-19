@@ -4,4 +4,4 @@ Tracks lead into the northern woods.
 
 ## Continue
 
-- (./bandit-camp.md)
+- [Follow the tracks](./bandit-camp.md)

@@ -4,4 +4,4 @@ The fairy leads you to an enchanted grove where the stolen crown rests upon a st
 
 ## Continue
 
-- (./ending-hero.md)
+- [Return the crown, the hero](./ending-hero.md)

@@ -10,6 +10,6 @@ As a young adventurer standing within the capital city, you must decide where yo
 
 ## Choose Your Path
 
-- (./village-choice.md)
+- [Investigate the village](./village-choice.md)
 
-- (./castle-choice.md)
+- [Investigate the castle](./castle-choice.md)

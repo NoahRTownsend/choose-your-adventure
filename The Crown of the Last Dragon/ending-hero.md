@@ -6,4 +6,4 @@ The magical barrier is restored, and the kingdom celebrates your heroic deeds.
 
 # Victory
 
-_start-here.md
+[Return to start](./_start-here.md)

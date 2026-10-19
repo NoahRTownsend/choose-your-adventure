@@ -6,4 +6,4 @@ He offers to teach you powerful magic.
 
 ## Continue
 
-- (./ending-mage.md)
+- [Become the wizard's apprentice](./ending-mage.md)

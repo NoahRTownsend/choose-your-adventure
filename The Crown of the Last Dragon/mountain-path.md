@@ -6,6 +6,6 @@ Ahead lies a dwarven gate and an old ruined tower.
 
 ## Choose
 
-- (./dwarf-gate.md)
+- [Advance to dwarf gate](./dwarf-gate.md)
 
-- (./ruined-tower.md)
+- [Advance to ruined tower](./ruined-tower.md)

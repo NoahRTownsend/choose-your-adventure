@@ -4,4 +4,4 @@ You study under the ancient wizard and become the kingdom's greatest mage.
 
 # Ending
 
-_start-here.md
+[Return to start](./_start-here.md)

@@ -6,4 +6,4 @@ Inside rests the Crown of the Last Dragon.
 
 ## Continue
 
-- (./ending-hero.md)
+- [Return the crown, the hero](./ending-hero.md)
